@@ -1,0 +1,8 @@
+numpy
+tqdm
+matplotlib
+pandas
+JSON
+transformers
+tensorflow
+torch
